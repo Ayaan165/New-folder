@@ -1,0 +1,35 @@
+body {
+background-image: linear-gradient(GREEN,YELLOW,LIGHTGREEN,RED,PINK,PURPLE);
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+/* background-repeat:no-repeat; */
+
+}
+#hader {
+    background-color: aqua;
+    height: 50px; 
+    width: auto;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 7px;
+    font-size: xx-large;
+}
+
+#HEADING {
+    color: firebrick;
+    font-weight: bold;
+
+}
+
+#TABLE {
+    font-weight: bold;
+    /* border: 3px; */
+    border-color:darkolivegreen;
+    border-style: solid;
+    border-radius: 3PX;
+    border-width: 2PX;
+    border-bottom-color: darkred;
+    border-top-color: deepskyblue;
+    background: #16A085;
+   
+}
