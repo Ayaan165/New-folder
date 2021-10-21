@@ -112,10 +112,27 @@ font: size 10px;;
     border-radius: 4px;
     height: 200px;
    align-items: left;
+   margin-right: 10px;
+   margin-left: 3px;
 }
 
 
 #text3 {
+    /* background-color: rgb(255, 38, 38); */
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg");
+    text-align: left; 
+    padding-bottom: 17px;
+    margin-top: 16px;
+    border-radius: 10px;
+    padding-right: 5px;
+}
 
-    
+#tablebg {
+    /* color: red; */
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg");
+    padding-bottom:5px ;
+    /* padding-right: ; */
+    /* padding-left: ; */
+    padding-top:5px ;
+    border-radius: 10px;
 }
